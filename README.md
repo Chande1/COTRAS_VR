@@ -40,3 +40,4 @@
 - [영상 링크2](https://www.youtube.com/shorts/h2A3AN2VUeo)
 - [영상 링크3](https://www.youtube.com/shorts/kZDujSh9eDY)
 - [영상 링크4](https://www.youtube.com/shorts/d_WWWsejwxg)
+- [주요 코드](Resources/Script)
