@@ -35,3 +35,8 @@
 - 요리하기
   - 시스템과 나레이션의 설명에 따라 요리(계란 후라이, 소시지, 라면, 밥, 식빵, 고등어, 두부전, 호박전 등)를 하는 시뮬레이션.
   - 간단한 순서 진행 시뮬레이션.
+## 관련 정보
+- [영상 링크1](https://www.youtube.com/watch?v=p1PfVY_JyRQ)
+- [영상 링크2](https://www.youtube.com/shorts/h2A3AN2VUeo)
+- [영상 링크3](https://www.youtube.com/shorts/kZDujSh9eDY)
+- [영상 링크4](https://www.youtube.com/shorts/d_WWWsejwxg)
